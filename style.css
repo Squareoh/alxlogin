@@ -98,12 +98,12 @@ body {
 .login__icon {
 	position: absolute;
 	top: 30px;
-	color: #9a415f;
+	color: #F7F8F8;
 }
 
 .login__input {
 	border: none;
-	border-bottom: 2px solid #9a415f;
+	border-bottom: 2px solid #F7F8F8;
 	background: none;
 	padding: 10px;
 	padding-left: 24px;
